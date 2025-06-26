@@ -33,10 +33,10 @@ python Bmi_pixel_app.py
 
 ## Folder Structure:
 Pixel-BMI-Calculator/
-|-Bmi_pixel_app.py
-|-screenshot.png
-|-README.md
-|-.gitignore
+- |-Bmi_pixel_app.py
+- |-screenshot.png
+- |-README.md
+- |-.gitignore
 
 ## Made By:
 - (We can write our names and team names here)
