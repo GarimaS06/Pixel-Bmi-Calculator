@@ -3,15 +3,15 @@ A retro pixel-art styled BMI calculator made with Python and Pygame, designed as
 
 ## Features
 
- Pixel art UI with retro font (Press Start 2P)
- Users can input fields for Weight (in kg) and Height (in cm)
- Real-time BMI calculations with categories:
+- Pixel art UI with retro font (Press Start 2P)
+- Users can input fields for Weight (in kg) and Height (in cm)
+- Real-time BMI calculations with categories:
   - Underweight
   - Normal
   - Overweight
   - Obese
-Visual Pixel Characters based on BMI results
-Glitch-styled pixel background and button hover effects
+- Visual Pixel Characters based on BMI results
+- Glitch-styled pixel background and button hover effects
 
 ## Demo Preview
 
@@ -39,8 +39,8 @@ Pixel-BMI-Calculator/
 |-.gitignore
 
 ## Made By:
-(We can write our names and team names here)
-Hackathon Demo Project - 2025
+- (We can write our names and team names here)
+- Hackathon Demo Project - 2025
 
 
 
